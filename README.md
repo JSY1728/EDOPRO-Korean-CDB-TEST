@@ -1,6 +1,5 @@
-[EDOPRO Korean CDB TEST]
-'ALL YGOPRO' 팀의 EDOPRO 한글 패치 저장소
-'ALL YGOPRO' 팀에서 한글 패치를 제공하고 있습니다.
+# EDOPro Korean CDB TEST
+EDOPro 한글 패치 팀 ALL YGOPRO의 리포지터리
 
-[EDOPRO Korean Patch Team]
-[Member: JSY1728, Crowel]
+# TEAM ALL YGOPRO
+**Member:** JSY1728, Crowel
